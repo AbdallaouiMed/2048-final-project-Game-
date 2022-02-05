@@ -1,6 +1,6 @@
 #2048-final-project-Game-
 
- '2048 finale game.zip' is the file with our Qt cpp code ziped with it's diffrent functions explained in the #2 of our Report : 
+#'2048 finale game.zip' is the file with our Qt cpp code ziped with it's diffrent functions explained in the #2 of our Report : 
                                                                   # datamodel.h
                                                                   # mainwindow.h 
                                                                   # main.cpp
